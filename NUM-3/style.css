@@ -1,0 +1,91 @@
+body{
+    background-color: darkslategrey;
+}
+.dd{
+    position: static;
+    width: 238px;
+    height: 232px;
+    display: grid;
+    grid-template-columns: 100% 100% 100%;
+    grid-template-rows:  100% 100% 100%;
+}
+.c1{
+   
+    width: 200px;
+    height: 200px;
+}
+
+#d1{
+    opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d1:hover{
+    
+    opacity: 0;
+}
+
+#d2{opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d2:hover{
+    
+    opacity: 0;
+}
+#d3{opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d3:hover{
+    
+    opacity: 0;
+}
+#d4{opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d4:hover{
+    
+    opacity: 0;
+}
+#d5{opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d5:hover{
+    
+    opacity: 0;
+}
+#d6{opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d6:hover{
+    
+    opacity: 0;
+}
+#d7{opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d7:hover{
+    
+    opacity: 0;
+}
+#d8{opacity: 100%;
+    position:sticky;
+    background-color: orange;
+}
+#d8:hover{
+    
+    opacity: 0;
+}
+#d9{opacity: 100%;
+    position:sticky; 
+    background-color: orange;
+}
+#d9:hover{
+    
+    opacity: 0;
+}
